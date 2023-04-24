@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url("fonts/Montserrat-Regular.ttf");
+    src: url("fonts/Montserrat-Regular.ttf") format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+body{
+	font-family: "Montserrat";
+	font-weight: 400;
+	font-style: normal;
+}
+
+#topbar, #nav-bar {
+	background-color: #2E3840;
+	color: ;
+}
+#topbar a, .top-contact{
+	text-decoration: none;
+	color: #F9DBBB ;
+}
+.logo{
+	width: 27%;
+}
+
+.btn{
+	color: #fff;
+}
+#showcase, #services{
+	padding: 3% 7%;
+}
+.txt-showcase{
+	color: red;
+}
+
+#services , #contacts {
+	background-color:#2E3840;
+}
+
